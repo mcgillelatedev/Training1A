@@ -1,0 +1,12 @@
+# Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Ss]ysInfo/
+[Uu]nity[Ss]hader[Cc]ache/
+.vs/
+.userprefs
+.idea/
